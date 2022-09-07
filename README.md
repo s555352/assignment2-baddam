@@ -24,3 +24,13 @@ The airport closest to the Museum is Rajiv Gandhi International Airport
 - Taj Falaknuma Palace
 
 *[About me](AboutMe.md)*
+
+---
+# Tables
+The below table gives the information on the name of a city, important location to visit in the city and the amount of time to spend visiting the important location
+| City | Location | Time |
+| --- | --- | --- |
+| Agra | Taj Mahal | 5 hours |
+| Delhi | Red Fort | 3 hours |
+| Amritsar | Sri Harmandir Sahib | 6 hours |
+| Mysuru | Mysore Palace | 8 hours |
