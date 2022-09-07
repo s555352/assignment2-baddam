@@ -15,7 +15,7 @@ The airport closest to the Museum is Rajiv Gandhi International Airport
 5. Your Destination will be on the left
 
 # Other locations around the Museum
-Charminar Mosque
+- Charminar Mosque
 - Renuka Yellamma Temple
 - Charminar
 - Salar Jung Museum
