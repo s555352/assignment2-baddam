@@ -34,3 +34,13 @@ The below table gives the information on the name of a city, important location 
 | Delhi | Red Fort | 3 hours |
 | Amritsar | Sri Harmandir Sahib | 6 hours |
 | Mysuru | Mysore Palace | 8 hours |
+
+---
+# Pithy Quotes
+> Start before you’re ready
+
+*Steven Pressfield*
+
+> Difficulties mastered are opportunities won
+
+*Winston Churchill*
