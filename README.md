@@ -56,7 +56,8 @@ The below table gives the information on the name of a city, important location 
   $index: str-index($string, $search);
   
   @if $index {
-    @return str-slice($string, 1, $index - 1) + $replace + str-replace(str-slice($string, $index + str-length($search)), $search, $replace);
+    @return str-slice($string, 1, $index - 1) + $replace + 
+    str-replace(str-slice($string, $index + str-length($search)), $search, $replace);
   }
   
   @return $string;
